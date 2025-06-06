@@ -11,4 +11,4 @@ Sou um desenvolvedor apaixonado por música, aprendizado contínuo e criação d
 
 ⭐️ Obrigado por visitar meu perfil!
 
-![naruto fogo](https://github.com/user-attachments/assets/f78bc359-390f-45a7-b1c6-a0b9fad3ed95)
+![naruto fogo](https://github.com/user-attachments/assets/6cb229f3-4982-4c1e-ad8f-4ec8a72dac4f)
