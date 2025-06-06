@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, eu sou [Miguel]!
 
-<!--
-**Miguellimademacedo/Miguellimademacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por música, aprendizado contínuo e criação de soluções úteis. Atualmente, estou focado(a) em:
 
-Here are some ideas to get you started:
+- 🚀 Desenvolvimento com [React, Node.js, Python]
+- 📚 Estou cursando [Desenvolvimento de Sistemas]
+- 🛠️ Contribuindo com projetos open-source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- [Email](miguel.l.macedo@aluno.senai.br)
+
+---
+
+⭐️ Obrigado por visitar meu perfil!
