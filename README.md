@@ -15,7 +15,7 @@
 </div>
 
 
-# 👋 Bem-vindo ao meu perfil!
+# 👋 Sobre meu perfil:
 
 Sou um desenvolvedor apaixonado por música, aprendizado contínuo e criação de soluções úteis. Atualmente, estou focado em:
 
