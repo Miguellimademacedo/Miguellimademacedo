@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu perfil!
 
-Sou um desenvolvedor apaixonado por música, aprendizado contínuo e criação de soluções úteis. Atualmente, estou focado(a) em:
+Sou um desenvolvedor apaixonado por música, aprendizado contínuo e criação de soluções úteis. Atualmente, estou focado em:
 
 - 🚀 Desenvolvimento com (React, Node.js, Python)
 - 📚 Estou cursando (Desenvolvimento de Sistemas)
