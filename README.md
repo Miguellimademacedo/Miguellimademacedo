@@ -12,7 +12,7 @@
 </div>
 
 
-# 👋 Sobre meu perfil:
+# 👤 Sobre meu perfil:
 
 Sou um desenvolvedor apaixonado por música, aprendizado contínuo e criação de soluções úteis. Atualmente, estou focado em:
 
@@ -23,8 +23,7 @@ Sou um desenvolvedor apaixonado por música, aprendizado contínuo e criação d
 - Email: miguel.l.macedo@aluno.senai.br                
 ---
 
-⭐️ Obrigado por visitar meu perfil!
-
 ![naruto fogo](https://github.com/user-attachments/assets/6cb229f3-4982-4c1e-ad8f-4ec8a72dac4f)
 
+⭐️ Obrigado por visitar meu perfil!
 
