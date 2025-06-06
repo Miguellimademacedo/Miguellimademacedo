@@ -6,8 +6,8 @@ Sou um desenvolvedor apaixonado por música, aprendizado contínuo e criação d
 - 📚 Estou cursando (Desenvolvimento de Sistemas)
 
 ## 📫 Contato
-- [Email](miguel.l.macedo@aluno.senai.br)                 <img src="[URL_DO_GIF](https://i.gifer.com/FOYX.gif)" alt="Descrição do GIF">
-
+- [Email](miguel.l.macedo@aluno.senai.br)                
 ---
 
 ⭐️ Obrigado por visitar meu perfil!
+![Naruto](https://github.com/user-attachments/assets/33161b8d-e0c1-4349-b03b-be63230ec416)
